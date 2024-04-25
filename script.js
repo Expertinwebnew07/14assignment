@@ -76,7 +76,7 @@ function  ceil()
       let  randof= input(input);
        randof=Math.random( randof);
        output( randof)
-      //  blanck( randof)
+       blanck( randof)
      }
      //Dice function for 1-6 unknown digits
      function  Dice()
@@ -85,7 +85,7 @@ function  ceil()
         dice=(Math.random(dice)*6)+1;
         dice=Math.floor(dice)
         output(dice)
-        // blanck(dice)
+        blanck(dice)
      }
      //16digits passward function
      function passward(){
